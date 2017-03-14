@@ -1,0 +1,16 @@
+Classes:
+
+- Player
+  > score
+  > decrease score
+
+- Round
+  > which player's turn
+  > ask question (from another class)
+  > Compare result of question
+
+- Math question
+  > generate two numbers between 1 and 20
+  > create question and answer pair
+
+
